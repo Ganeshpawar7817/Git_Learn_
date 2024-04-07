@@ -28,6 +28,7 @@ public class TeacherController {
 
 	@GetMapping("/get-all")
 	public void check() throws SQLException, IOException {
+		System.out.println("inside teacher/get-all api");
 		List<Employee> employees = getData();
 		employeeRepo.saveAll(employees);
 		ResultSet resultSet = fetchData();
