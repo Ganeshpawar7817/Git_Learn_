@@ -1,5 +1,5 @@
 package com.ganesh.SubProject.dao;
-
+/*
 import org.springframework.stereotype.Repository;
 
 import com.ganesh.SubProject.entity.User;
@@ -15,3 +15,4 @@ public class UserDao {
 	}
 
 }
+*/
