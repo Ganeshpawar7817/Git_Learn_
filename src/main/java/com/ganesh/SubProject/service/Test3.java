@@ -23,6 +23,7 @@ public class Test3 {
 	
 	public void m1() {
 		System.out.println("inside m1 method of Test3");
+		System.out.println("inside m1 method of Test3");
 		test.m1();
 		test2.m1();
 		System.out.println("m1-Test3 is called");

@@ -14,6 +14,7 @@ public class Test2 {
 	void m1() {
 		System.out.println("m1-Test2 is called");
 		System.out.println("inside m1 method>>>>");
+		System.out.println("inside m1 method>>>>");
 
 	}
 
